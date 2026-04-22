@@ -1,0 +1,22 @@
+{
+  "name": "heuristics",
+  "description": "A grab-bag of reusable mental models and patterns — invoked on-demand as skills when the situation calls for them.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Cody Hergenroeder",
+    "email": "plugins@codyh.xyz"
+  },
+  "homepage": "https://github.com/codyhxyz/heuristics",
+  "repository": "https://github.com/codyhxyz/heuristics",
+  "license": "MIT",
+  "keywords": [
+    "claude-code",
+    "claude-code-plugin",
+    "claude-skill",
+    "heuristics",
+    "patterns",
+    "mental-models",
+    "research",
+    "workflow"
+  ]
+}

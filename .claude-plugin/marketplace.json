@@ -1,0 +1,22 @@
+{
+  "name": "heuristics",
+  "metadata": {
+    "description": "Single-plugin marketplace for heuristics."
+  },
+  "owner": {
+    "name": "Cody Hergenroeder",
+    "email": "plugins@codyh.xyz"
+  },
+  "plugins": [
+    {
+      "name": "heuristics",
+      "description": "A grab-bag of reusable mental models and patterns — invoked on-demand as skills when the situation calls for them.",
+      "version": "0.1.0",
+      "source": "./",
+      "author": {
+        "name": "Cody Hergenroeder",
+        "email": "plugins@codyh.xyz"
+      }
+    }
+  ]
+}
