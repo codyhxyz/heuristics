@@ -1,6 +1,7 @@
 # heuristics
 
-A grab-bag of heuristics for using Claude Code. Stuff not worth making a separate repo for.
+A grab-bag of heuristics for using Claude Code. Think of this as my library of prompts.
+Model invocation turned off to save you context. These are for humans to use as-needed, not for AI to worry about.
 
 ## Skills
 
